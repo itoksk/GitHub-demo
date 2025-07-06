@@ -1,29 +1,65 @@
 <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
-  <!-- GitHub Octocat inspired logo -->
-  <circle cx="100" cy="100" r="90" fill="#24292e"/>
-  <circle cx="100" cy="100" r="80" fill="#ffffff"/>
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="90" fill="#1a1a1a"/>
+  <circle cx="100" cy="100" r="85" fill="#2e8555"/>
   
-  <!-- Octocat body -->
-  <ellipse cx="100" cy="120" rx="50" ry="40" fill="#24292e"/>
+  <!-- Wolf silhouette -->
+  <g transform="translate(100, 100)">
+    <!-- Wolf head -->
+    <path d="M -40 -20 
+             L -45 -35 
+             L -40 -45 
+             L -30 -40
+             L -20 -45
+             L -10 -50
+             L 0 -48
+             L 10 -50
+             L 20 -45
+             L 30 -40
+             L 40 -45
+             L 45 -35
+             L 40 -20
+             L 35 -10
+             L 30 0
+             L 20 10
+             L 10 15
+             L 0 18
+             L -10 15
+             L -20 10
+             L -30 0
+             L -35 -10
+             Z" 
+          fill="#ffffff"/>
+    
+    <!-- Wolf ears -->
+    <path d="M -30 -40 L -35 -55 L -25 -50 Z" fill="#ffffff"/>
+    <path d="M 30 -40 L 35 -55 L 25 -50 Z" fill="#ffffff"/>
+    
+    <!-- Inner ears -->
+    <path d="M -30 -45 L -32 -50 L -27 -48 Z" fill="#1a1a1a"/>
+    <path d="M 30 -45 L 32 -50 L 27 -48 Z" fill="#1a1a1a"/>
+    
+    <!-- Eyes -->
+    <ellipse cx="-15" cy="-15" rx="6" ry="8" fill="#1a1a1a"/>
+    <ellipse cx="15" cy="-15" rx="6" ry="8" fill="#1a1a1a"/>
+    <circle cx="-13" cy="-17" r="2" fill="#25c2a0"/>
+    <circle cx="17" cy="-17" r="2" fill="#25c2a0"/>
+    
+    <!-- Nose -->
+    <path d="M -5 -5 L 0 0 L 5 -5 Z" fill="#1a1a1a"/>
+    
+    <!-- Mouth/Muzzle -->
+    <path d="M 0 0 Q -8 5 -12 8" stroke="#1a1a1a" stroke-width="2" fill="none"/>
+    <path d="M 0 0 Q 8 5 12 8" stroke="#1a1a1a" stroke-width="2" fill="none"/>
+    
+    <!-- Fur texture -->
+    <path d="M -35 -10 Q -38 -5 -35 0" stroke="#e0e0e0" stroke-width="1" fill="none"/>
+    <path d="M 35 -10 Q 38 -5 35 0" stroke="#e0e0e0" stroke-width="1" fill="none"/>
+    <path d="M -25 10 Q -28 12 -25 15" stroke="#e0e0e0" stroke-width="1" fill="none"/>
+    <path d="M 25 10 Q 28 12 25 15" stroke="#e0e0e0" stroke-width="1" fill="none"/>
+  </g>
   
-  <!-- Octocat tentacles -->
-  <path d="M 60 140 Q 50 160 55 180" stroke="#24292e" stroke-width="12" fill="none" stroke-linecap="round"/>
-  <path d="M 80 145 Q 75 165 80 185" stroke="#24292e" stroke-width="12" fill="none" stroke-linecap="round"/>
-  <path d="M 100 145 Q 100 165 100 185" stroke="#24292e" stroke-width="12" fill="none" stroke-linecap="round"/>
-  <path d="M 120 145 Q 125 165 120 185" stroke="#24292e" stroke-width="12" fill="none" stroke-linecap="round"/>
-  <path d="M 140 140 Q 150 160 145 180" stroke="#24292e" stroke-width="12" fill="none" stroke-linecap="round"/>
-  
-  <!-- Octocat head -->
-  <circle cx="100" cy="80" r="35" fill="#24292e"/>
-  
-  <!-- Octocat ears -->
-  <path d="M 75 60 L 70 40 L 85 55 Z" fill="#24292e"/>
-  <path d="M 125 60 L 130 40 L 115 55 Z" fill="#24292e"/>
-  
-  <!-- Eyes -->
-  <circle cx="85" cy="80" r="8" fill="#ffffff"/>
-  <circle cx="115" cy="80" r="8" fill="#ffffff"/>
-  
-  <!-- Workshop text -->
-  <text x="100" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#24292e">Workshop</text>
+  <!-- Text -->
+  <text x="100" y="160" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#ffffff">GitHub Wolf</text>
+  <text x="100" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#25c2a0">Workshop</text>
 </svg>
