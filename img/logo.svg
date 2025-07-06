@@ -1,0 +1,29 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- GitHub Octocat inspired logo -->
+  <circle cx="100" cy="100" r="90" fill="#24292e"/>
+  <circle cx="100" cy="100" r="80" fill="#ffffff"/>
+  
+  <!-- Octocat body -->
+  <ellipse cx="100" cy="120" rx="50" ry="40" fill="#24292e"/>
+  
+  <!-- Octocat tentacles -->
+  <path d="M 60 140 Q 50 160 55 180" stroke="#24292e" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M 80 145 Q 75 165 80 185" stroke="#24292e" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M 100 145 Q 100 165 100 185" stroke="#24292e" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M 120 145 Q 125 165 120 185" stroke="#24292e" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M 140 140 Q 150 160 145 180" stroke="#24292e" stroke-width="12" fill="none" stroke-linecap="round"/>
+  
+  <!-- Octocat head -->
+  <circle cx="100" cy="80" r="35" fill="#24292e"/>
+  
+  <!-- Octocat ears -->
+  <path d="M 75 60 L 70 40 L 85 55 Z" fill="#24292e"/>
+  <path d="M 125 60 L 130 40 L 115 55 Z" fill="#24292e"/>
+  
+  <!-- Eyes -->
+  <circle cx="85" cy="80" r="8" fill="#ffffff"/>
+  <circle cx="115" cy="80" r="8" fill="#ffffff"/>
+  
+  <!-- Workshop text -->
+  <text x="100" y="30" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#24292e">Workshop</text>
+</svg>
