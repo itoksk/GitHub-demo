@@ -2,11 +2,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://itoksk.github.io/GitHub-demo/blog</id>
     <title>GitHub実践ワークショップ Blog</title>
-    <updated>2025-01-06T00:00:00.000Z</updated>
+    <updated>2025-07-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://itoksk.github.io/GitHub-demo/blog"/>
     <subtitle>GitHub実践ワークショップ Blog</subtitle>
     <icon>https://itoksk.github.io/GitHub-demo/img/favicon.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[GitHub実践ワークショップサイトをリリースしました！]]></title>
+        <id>https://itoksk.github.io/GitHub-demo/blog/workshop-launch</id>
+        <link href="https://itoksk.github.io/GitHub-demo/blog/workshop-launch"/>
+        <updated>2025-07-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本日、中高生向けのGitHub実践ワークショップサイトを正式にリリースしました。このサイトは、GitHubの基本から応用まで、実践的に学べるワークショップ形式の教材を提供しています。]]></summary>
+        <content type="html"><![CDATA[<p>本日、中高生向けのGitHub実践ワークショップサイトを正式にリリースしました。このサイトは、GitHubの基本から応用まで、実践的に学べるワークショップ形式の教材を提供しています。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-主な特徴">🚀 主な特徴<a href="https://itoksk.github.io/GitHub-demo/blog/workshop-launch#-%E4%B8%BB%E3%81%AA%E7%89%B9%E5%BE%B4" class="hash-link" aria-label="🚀 主な特徴 への直接リンク" title="🚀 主な特徴 への直接リンク">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-完全ブラウザベースの学習環境">1. <strong>完全ブラウザベースの学習環境</strong><a href="https://itoksk.github.io/GitHub-demo/blog/workshop-launch#1-%E5%AE%8C%E5%85%A8%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6%E3%83%99%E3%83%BC%E3%82%B9%E3%81%AE%E5%AD%A6%E7%BF%92%E7%92%B0%E5%A2%83" class="hash-link" aria-label="1-完全ブラウザベースの学習環境 への直接リンク" title="1-完全ブラウザベースの学習環境 への直接リンク">​</a></h3>
+<ul>
+<li>OSに依存しない学習体験</li>
+<li>github.dev（ブラウザ版VSCode）を活用</li>
+<li>インストール不要ですぐに始められる</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-実践重視のカリキュラム">2. <strong>実践重視のカリキュラム</strong><a href="https://itoksk.github.io/GitHub-demo/blog/workshop-launch#2-%E5%AE%9F%E8%B7%B5%E9%87%8D%E8%A6%96%E3%81%AE%E3%82%AB%E3%83%AA%E3%82%AD%E3%83%A5%E3%83%A9%E3%83%A0" class="hash-link" aria-label="2-実践重視のカリキュラム への直接リンク" title="2-実践重視のカリキュラム への直接リンク">​</a></h3>
+<ul>
+<li>説明20%、実践80%の構成</li>
+<li>6日間の基礎編 + 3日間の応用編</li>
+<li>段階的に難易度が上がる設計</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-楽しく学べるコンテンツ">3. <strong>楽しく学べるコンテンツ</strong><a href="https://itoksk.github.io/GitHub-demo/blog/workshop-launch#3-%E6%A5%BD%E3%81%97%E3%81%8F%E5%AD%A6%E3%81%B9%E3%82%8B%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84" class="hash-link" aria-label="3-楽しく学べるコンテンツ への直接リンク" title="3-楽しく学べるコンテンツ への直接リンク">​</a></h3>
+<ul>
+<li>Day 3: プロフィールREADME作成</li>
+<li>バッジやGIFアニメーションで個性的なプロフィール作り</li>
+<li>実際に動くWebサイトの作成体験</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-カリキュラム構成">📚 カリキュラム構成<a href="https://itoksk.github.io/GitHub-demo/blog/workshop-launch#-%E3%82%AB%E3%83%AA%E3%82%AD%E3%83%A5%E3%83%A9%E3%83%A0%E6%A7%8B%E6%88%90" class="hash-link" aria-label="📚 カリキュラム構成 への直接リンク" title="📚 カリキュラム構成 への直接リンク">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="基礎編6日間">基礎編（6日間）<a href="https://itoksk.github.io/GitHub-demo/blog/workshop-launch#%E5%9F%BA%E7%A4%8E%E7%B7%A86%E6%97%A5%E9%96%93" class="hash-link" aria-label="基礎編（6日間） への直接リンク" title="基礎編（6日間） への直接リンク">​</a></h3>
+<ol>
+<li><strong>Day 1</strong>: GitHubアカウント作成とGitHub Pages</li>
+<li><strong>Day 2</strong>: Markdownとgit基本操作</li>
+<li><strong>Day 3</strong>: プロフィールREADME作成</li>
+<li><strong>Day 4</strong>: ブラウザ版VSCodeの活用</li>
+<li><strong>Day 5</strong>: ブランチとプルリクエスト</li>
+<li><strong>Day 6</strong>: GitHub Classroom体験</li>
+</ol>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="応用編3日間">応用編（3日間）<a href="https://itoksk.github.io/GitHub-demo/blog/workshop-launch#%E5%BF%9C%E7%94%A8%E7%B7%A83%E6%97%A5%EF%BF%BD%EF%BF%BD%E9%96%93" class="hash-link" aria-label="応用編（3日間） への直接リンク" title="応用編（3日間） への直接リンク">​</a></h3>
+<ol>
+<li><strong>Advanced 1</strong>: Google Apps Script入門</li>
+<li><strong>Advanced 2</strong>: GitHub Classroom（講師視点）</li>
+<li><strong>Advanced 3</strong>: GitHub活用テクニック</li>
+</ol>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-技術スタック">🛠 技術スタック<a href="https://itoksk.github.io/GitHub-demo/blog/workshop-launch#-%E6%8A%80%E8%A1%93%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF" class="hash-link" aria-label="🛠 技術スタック への直接リンク" title="🛠 技術スタック への直接リンク">​</a></h2>
+<p>このサイトは以下の技術を使用して構築されています：</p>
+<ul>
+<li><strong>Pteranodon</strong> (Docusaurus v3ベース)</li>
+<li><strong>GitHub Pages</strong> でホスティング</li>
+<li><strong>GitHub Actions</strong> で自動デプロイ</li>
+<li><strong>React</strong> コンポーネントでカスタマイズ</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-新しいロゴデザイン">🐺 新しいロゴデザイン<a href="https://itoksk.github.io/GitHub-demo/blog/workshop-launch#-%E6%96%B0%E3%81%97%E3%81%84%E3%83%AD%E3%82%B4%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3" class="hash-link" aria-label="🐺 新しいロゴデザイン への直接リンク" title="🐺 新しいロゴデザイン への直接リンク">​</a></h2>
+<p>サイトのロゴを狼をモチーフにしたデザインに刷新しました。狼は群れで協力して生きる動物として、GitHubでの協働作業を象徴しています。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-対象者">🎯 対象者<a href="https://itoksk.github.io/GitHub-demo/blog/workshop-launch#-%E5%AF%BE%E8%B1%A1%E8%80%85" class="hash-link" aria-label="🎯 対象者 への直接リンク" title="🎯 対象者 への直接リンク">​</a></h2>
+<ul>
+<li>プログラミングを始めたい中高生</li>
+<li>GitHubを授業で活用したい先生</li>
+<li>Google Apps Script（GAS）を使っている先生</li>
+<li>チーム開発を学びたい初心者</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-充実したリソース">📝 充実したリソース<a href="https://itoksk.github.io/GitHub-demo/blog/workshop-launch#-%E5%85%85%E5%AE%9F%E3%81%97%E3%81%9F%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9" class="hash-link" aria-label="📝 充実したリソース への直接リンク" title="📝 充実したリソース への直接リンク">​</a></h2>
+<ul>
+<li><strong>トラブルシューティングガイド</strong>: よくある問題と解決方法</li>
+<li><strong>用語集</strong>: Git/GitHub関連用語をわかりやすく解説</li>
+<li><strong>講師向けガイド</strong>: 授業での活用方法</li>
+<li><strong>テンプレート集</strong>: すぐに使えるサンプルコード</li>
+<li><strong>開発ガイド</strong>: ワークショップのカスタマイズ方法</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-アクセス方法">🔗 アクセス方法<a href="https://itoksk.github.io/GitHub-demo/blog/workshop-launch#-%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E6%96%B9%E6%B3%95" class="hash-link" aria-label="🔗 アクセス方法 への直接リンク" title="🔗 アクセス方法 への直接リンク">​</a></h2>
+<p>ワークショップサイトはこちらからアクセスできます：
+<a href="https://itoksk.github.io/GitHub-demo/" target="_blank" rel="noopener noreferrer">https://itoksk.github.io/GitHub-demo/</a></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-貢献について">🤝 貢献について<a href="https://itoksk.github.io/GitHub-demo/blog/workshop-launch#-%E8%B2%A2%E7%8C%AE%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6" class="hash-link" aria-label="🤝 貢献について への直接リンク" title="🤝 貢献について への直接リンク">​</a></h2>
+<p>このプロジェクトはオープンソースです。改善提案やバグ報告は<a href="https://github.com/itoksk/GitHub-demo" target="_blank" rel="noopener noreferrer">GitHubリポジトリ</a>のIssuesまでお願いします。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-謝辞">🙏 謝辞<a href="https://itoksk.github.io/GitHub-demo/blog/workshop-launch#-%E8%AC%9D%E8%BE%9E" class="hash-link" aria-label="🙏 謝辞 への直接リンク" title="🙏 謝辞 への直接リンク">​</a></h2>
+<p>このワークショップサイトの開発にあたり、多くの参考資料とフィードバックをいただきました。特に、実際の教育現場でのニーズを反映させることができました。</p>
+<hr>
+<p>ぜひ、このワークショップを通じて、多くの方がGitHubの楽しさと可能性を発見していただければ幸いです！</p>]]></content>
+        <author>
+            <name>Workshop Team</name>
+            <uri>https://github.com/itoksk</uri>
+        </author>
+        <category label="github" term="github"/>
+        <category label="workshop" term="workshop"/>
+        <category label="docusaurus" term="docusaurus"/>
+        <category label="pteranodon" term="pteranodon"/>
+        <category label="release" term="release"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub Workshop Wikiへようこそ]]></title>
         <id>https://itoksk.github.io/GitHub-demo/blog/welcome</id>

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgithub_workshop_wiki=self.webpackChunkgithub_workshop_wiki||[]).push([[4019],{9211:u=>{u.exports=JSON.parse('[{"label":"\u304a\u77e5\u3089\u305b","permalink":"/GitHub-demo/blog/tags/\u304a\u77e5\u3089\u305b","count":1},{"label":"docusaurus","permalink":"/GitHub-demo/blog/tags/docusaurus","count":1}]')}}]);

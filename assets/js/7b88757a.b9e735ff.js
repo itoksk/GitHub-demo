@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgithub_workshop_wiki=self.webpackChunkgithub_workshop_wiki||[]).push([[2048],{9083:e=>{e.exports=JSON.parse('{"label":"pteranodon","permalink":"/GitHub-demo/blog/tags/pteranodon","allTagsPath":"/GitHub-demo/blog/tags","count":1,"unlisted":false}')}}]);

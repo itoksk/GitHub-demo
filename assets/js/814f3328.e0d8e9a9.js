@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkgithub_workshop_wiki=self.webpackChunkgithub_workshop_wiki||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"GitHub Workshop Wiki\u3078\u3088\u3046\u3053\u305d","permalink":"/GitHub-demo/blog/welcome","unlisted":false}]}')}}]);

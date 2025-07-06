@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgithub_workshop_wiki=self.webpackChunkgithub_workshop_wiki||[]).push([[6145],{7752:s=>{s.exports=JSON.parse('{"label":"github","permalink":"/GitHub-demo/blog/tags/github","allTagsPath":"/GitHub-demo/blog/tags","count":1,"unlisted":false}')}}]);
