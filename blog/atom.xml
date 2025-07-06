@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://itoksk.github.io/GitHub-demo/blog</id>
+    <title>GitHub実践ワークショップ Blog</title>
+    <updated>2025-01-06T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://itoksk.github.io/GitHub-demo/blog"/>
+    <subtitle>GitHub実践ワークショップ Blog</subtitle>
+    <icon>https://itoksk.github.io/GitHub-demo/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[GitHub Workshop Wikiへようこそ]]></title>
+        <id>https://itoksk.github.io/GitHub-demo/blog/welcome</id>
+        <link href="https://itoksk.github.io/GitHub-demo/blog/welcome"/>
+        <updated>2025-01-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GitHub実践ワークショップのWikiサイトを公開しました。]]></summary>
+        <content type="html"><![CDATA[<p>GitHub実践ワークショップのWikiサイトを公開しました。</p>
+<p>このサイトでは、GitHubの基本的な使い方から応用的な活用方法まで、段階的に学べるコンテンツを提供しています。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="主なコンテンツ">主なコンテンツ<a href="https://itoksk.github.io/GitHub-demo/blog/welcome#%E4%B8%BB%E3%81%AA%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84" class="hash-link" aria-label="主なコンテンツ への直接リンク" title="主なコンテンツ への直接リンク">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="基礎編day-1-6">基礎編（Day 1-6）<a href="https://itoksk.github.io/GitHub-demo/blog/welcome#%E5%9F%BA%E7%A4%8E%E7%B7%A8day-1-6" class="hash-link" aria-label="基礎編（Day 1-6） への直接リンク" title="基礎編（Day 1-6） への直接リンク">​</a></h3>
+<ul>
+<li>GitHubアカウントの作成</li>
+<li>基本的な操作方法</li>
+<li>プロフィールREADMEの作成</li>
+<li>github.devの活用</li>
+<li>ブランチとプルリクエスト</li>
+<li>GitHub Classroom体験</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="応用編">応用編<a href="https://itoksk.github.io/GitHub-demo/blog/welcome#%E5%BF%9C%E7%94%A8%E7%B7%A8" class="hash-link" aria-label="応用編 への直接リンク" title="応用編 への直接リンク">​</a></h3>
+<ul>
+<li>Google Apps Script連携</li>
+<li>GitHub Classroom講師体験</li>
+<li>GitHub活用テクニック</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="今後の予定">今後の予定<a href="https://itoksk.github.io/GitHub-demo/blog/welcome#%E4%BB%8A%E5%BE%8C%E3%81%AE%E4%BA%88%E5%AE%9A" class="hash-link" aria-label="今後の予定 への直接リンク" title="今後の予定 への直接リンク">​</a></h2>
+<p>定期的にコンテンツを更新し、より充実したワークショップ資料を提供していく予定です。</p>
+<p>ぜひご活用ください！</p>]]></content>
+        <author>
+            <name>Workshop Team</name>
+            <uri>https://github.com/itoksk</uri>
+        </author>
+        <category label="お知らせ" term="お知らせ"/>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
+</feed>
