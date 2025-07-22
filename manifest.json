@@ -1,0 +1,21 @@
+{
+  "name": "GitHub実践ワークショップ",
+  "short_name": "GitHub Workshop",
+  "description": "GitHubを使いこなして、世界に作品を発信しよう！",
+  "start_url": "/GitHub-demo/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#25c2a0",
+  "icons": [
+    {
+      "src": "/GitHub-demo/img/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/GitHub-demo/img/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
