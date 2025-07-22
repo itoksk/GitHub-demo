@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgithub_workshop_wiki=self.webpackChunkgithub_workshop_wiki||[]).push([[3676],{3908:s=>{s.exports=JSON.parse('{"label":"\u65b0\u6a5f\u80fd","permalink":"/GitHub-demo/blog/tags/\u65b0\u6a5f\u80fd","allTagsPath":"/GitHub-demo/blog/tags","count":2,"unlisted":false}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgithub_workshop_wiki=self.webpackChunkgithub_workshop_wiki||[]).push([[1672],{7235:o=>{o.exports=JSON.parse('{"permalink":"/GitHub-demo/blog/tags/\u30ef\u30fc\u30af\u30b7\u30e7\u30c3\u30d7","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

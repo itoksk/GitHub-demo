@@ -2,11 +2,148 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://itoksk.github.io/GitHub-demo/blog</id>
     <title>GitHub実践ワークショップ Blog</title>
-    <updated>2025-07-06T00:00:00.000Z</updated>
+    <updated>2025-07-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://itoksk.github.io/GitHub-demo/blog"/>
     <subtitle>GitHub実践ワークショップ Blog</subtitle>
     <icon>https://itoksk.github.io/GitHub-demo/img/logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[ライセンスガイドを追加しました！]]></title>
+        <id>https://itoksk.github.io/GitHub-demo/blog/license-guide-added</id>
+        <link href="https://itoksk.github.io/GitHub-demo/blog/license-guide-added"/>
+        <updated>2025-07-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GitHubワークショップに、オープンソースライセンスについて学べる新しいセクションが追加されました。「迷ったらMIT」を合言葉に、初心者でも簡単にライセンスを選べるようになります。]]></summary>
+        <content type="html"><![CDATA[<p>GitHubワークショップに、オープンソースライセンスについて学べる新しいセクションが追加されました。「迷ったらMIT」を合言葉に、初心者でも簡単にライセンスを選べるようになります。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-なぜライセンスガイドが必要">🎯 なぜライセンスガイドが必要？<a href="https://itoksk.github.io/GitHub-demo/blog/license-guide-added#-%E3%81%AA%E3%81%9C%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E3%82%AC%E3%82%A4%E3%83%89%E3%81%8C%E5%BF%85%E8%A6%81" class="hash-link" aria-label="🎯 なぜライセンスガイドが必要？ への直接リンク" title="🎯 なぜライセンスガイドが必要？ への直接リンク">​</a></h2>
+<p>GitHubでコードを公開する際、多くの初心者が「ライセンスって何？」「どれを選べばいいの？」と悩みます。そんな疑問に答えるため、わかりやすいライセンスガイドを作成しました。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-ガイドの内容">📚 ガイドの内容<a href="https://itoksk.github.io/GitHub-demo/blog/license-guide-added#-%E3%82%AC%E3%82%A4%E3%83%89%E3%81%AE%E5%86%85%E5%AE%B9" class="hash-link" aria-label="📚 ガイドの内容 への直接リンク" title="📚 ガイドの内容 への直接リンク">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-ライセンスの基礎知識">1. <strong>ライセンスの基礎知識</strong><a href="https://itoksk.github.io/GitHub-demo/blog/license-guide-added#1-%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E3%81%AE%E5%9F%BA%E7%A4%8E%E7%9F%A5%E8%AD%98" class="hash-link" aria-label="1-ライセンスの基礎知識 への直接リンク" title="1-ライセンスの基礎知識 への直接リンク">​</a></h3>
+<ul>
+<li>そもそもライセンスとは何か</li>
+<li>なぜライセンスが必要なのか</li>
+<li>ライセンスがないとどうなるか</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-かんたん選択ガイド">2. <strong>かんたん選択ガイド</strong><a href="https://itoksk.github.io/GitHub-demo/blog/license-guide-added#2-%E3%81%8B%E3%82%93%E3%81%9F%E3%82%93%E9%81%B8%E6%8A%9E%E3%82%AC%E3%82%A4%E3%83%89" class="hash-link" aria-label="2-かんたん選択ガイド への直接リンク" title="2-かんたん選択ガイド への直接リンク">​</a></h3>
+<ul>
+<li>🌟 <strong>初心者の鉄則：「迷ったらMIT」</strong></li>
+<li>3ステップで選べるシンプルな方法</li>
+<li>プロジェクト別のおすすめライセンス</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-ライセンスの追加方法">3. <strong>ライセンスの追加方法</strong><a href="https://itoksk.github.io/GitHub-demo/blog/license-guide-added#3-%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E3%81%AE%E8%BF%BD%E5%8A%A0%E6%96%B9%E6%B3%95" class="hash-link" aria-label="3-ライセンスの追加方法 への直接リンク" title="3-ライセンスの追加方法 への直接リンク">​</a></h3>
+<ul>
+<li>GitHubでの追加手順（画面付き）</li>
+<li>新規リポジトリでの設定</li>
+<li>既存リポジトリへの追加</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="4-主要ライセンスの詳細">4. <strong>主要ライセンスの詳細</strong><a href="https://itoksk.github.io/GitHub-demo/blog/license-guide-added#4-%E4%B8%BB%E8%A6%81%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9%E3%81%AE%EF%BF%BD%E8%A9%B3%E7%B4%B0" class="hash-link" aria-label="4-主要ライセンスの詳細 への直接リンク" title="4-主要ライセンスの詳細 への直接リンク">​</a></h3>
+<ul>
+<li><strong>MIT</strong> - 一番かんたんで自由</li>
+<li><strong>Apache 2.0</strong> - 企業も安心</li>
+<li><strong>GPL v3</strong> - オープンソースを守る</li>
+<li><strong>Creative Commons</strong> - 文書や画像用</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="5-教育現場向けガイド">5. <strong>教育現場向けガイド</strong><a href="https://itoksk.github.io/GitHub-demo/blog/license-guide-added#5-%E6%95%99%E8%82%B2%E7%8F%BE%E5%A0%B4%E5%90%91%E3%81%91%E3%82%AC%E3%82%A4%E3%83%89" class="hash-link" aria-label="5-教育現場向けガイド への直接リンク" title="5-教育現場向けガイド への直接リンク">​</a></h3>
+<ul>
+<li>授業での活用方法</li>
+<li>学生プロジェクトでの注意点</li>
+<li>実際の授業例</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-特徴">🌈 特徴<a href="https://itoksk.github.io/GitHub-demo/blog/license-guide-added#-%E7%89%B9%E5%BE%B4" class="hash-link" aria-label="🌈 特徴 への直接リンク" title="🌈 特徴 への直接リンク">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="わかりやすさを重視">わかりやすさを重視<a href="https://itoksk.github.io/GitHub-demo/blog/license-guide-added#%E3%82%8F%E3%81%8B%E3%82%8A%E3%82%84%E3%81%99%E3%81%95%E3%82%92%E9%87%8D%E8%A6%96" class="hash-link" aria-label="わかりやすさを重視 への直接リンク" title="わかりやすさを重視 への直接リンク">​</a></h3>
+<ul>
+<li>専門用語を避けた説明</li>
+<li>図やグラフを使わないシンプルな構成</li>
+<li>実例を豊富に掲載</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="実践的な内容">実践的な内容<a href="https://itoksk.github.io/GitHub-demo/blog/license-guide-added#%E5%AE%9F%E8%B7%B5%E7%9A%84%E3%81%AA%E5%86%85%E5%AE%B9" class="hash-link" aria-label="実践的な内容 への直接リンク" title="実践的な内容 への直接リンク">​</a></h3>
+<ul>
+<li>よくある質問と回答</li>
+<li>チェックリスト付き</li>
+<li>間違いやすいポイントの解説</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-こんな方におすすめ">👥 こんな方におすすめ<a href="https://itoksk.github.io/GitHub-demo/blog/license-guide-added#-%E3%81%93%E3%82%93%E3%81%AA%E6%96%B9%E3%81%AB%E3%81%8A%E3%81%99%E3%81%99%E3%82%81" class="hash-link" aria-label="👥 こんな方におすすめ への直接リンク" title="👥 こんな方におすすめ への直接リンク">​</a></h2>
+<ul>
+<li>GitHubを始めたばかりの初心者</li>
+<li>学生や趣味でプログラミングをしている方</li>
+<li>生徒にライセンスを教えたい先生</li>
+<li>オープンソースに貢献したい方</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-今すぐチェック">🚀 今すぐチェック！<a href="https://itoksk.github.io/GitHub-demo/blog/license-guide-added#-%E4%BB%8A%E3%81%99%E3%81%90%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF" class="hash-link" aria-label="🚀 今すぐチェック！ への直接リンク" title="🚀 今すぐチェック！ への直接リンク">​</a></h2>
+<p>ライセンスガイドは<a href="https://itoksk.github.io/GitHub-demo/docs/license/intro">こちら</a>からアクセスできます。</p>
+<p>最初のページでは「迷ったらMIT」という基本方針を説明し、その後で詳しい内容を学べるようになっています。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-覚えておきたいポイント">💡 覚えておきたいポイント<a href="https://itoksk.github.io/GitHub-demo/blog/license-guide-added#-%E8%A6%9A%E3%81%88%E3%81%A6%E3%81%8A%E3%81%8D%E3%81%9F%E3%81%84%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88" class="hash-link" aria-label="💡 覚えておきたいポイント への直接リンク" title="💡 覚えておきたいポイント への直接リンク">​</a></h2>
+<ol>
+<li><strong>ライセンスなし = 誰も使えない</strong></li>
+<li><strong>迷ったらMITライセンス</strong></li>
+<li><strong>後から変更も可能</strong></li>
+</ol>
+<hr>
+<p>オープンソースの世界への第一歩を、適切なライセンス選択から始めましょう！ご質問やフィードバックがありましたら、ぜひお聞かせください。📝✨</p>]]></content>
+        <author>
+            <name>GitHub Workshop Admin</name>
+            <uri>https://github.com/itoksk</uri>
+        </author>
+        <category label="お知らせ" term="お知らせ"/>
+        <category label="ライセンス" term="ライセンス"/>
+        <category label="新機能" term="新機能"/>
+        <category label="教育" term="教育"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[テトリスワークショップを追加しました！]]></title>
+        <id>https://itoksk.github.io/GitHub-demo/blog/tetris-workshop-added</id>
+        <link href="https://itoksk.github.io/GitHub-demo/blog/tetris-workshop-added"/>
+        <updated>2025-07-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GitHubワークショップに、楽しく学べる新しいコンテンツが加わりました。手の動きでテトリスを操作できる、革新的なプログラミング教材です。]]></summary>
+        <content type="html"><![CDATA[<p>GitHubワークショップに、楽しく学べる新しいコンテンツが加わりました。手の動きでテトリスを操作できる、革新的なプログラミング教材です。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-テトリスワークショップとは">🚀 テトリスワークショップとは？<a href="https://itoksk.github.io/GitHub-demo/blog/tetris-workshop-added#-%E3%83%86%E3%83%88%E3%83%AA%E3%82%B9%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%E3%81%A8%E3%81%AF" class="hash-link" aria-label="🚀 テトリスワークショップとは？ への直接リンク" title="🚀 テトリスワークショップとは？ への直接リンク">​</a></h2>
+<p>MediaPipeを使った手のジェスチャー認識でテトリスを操作する、インタラクティブなプログラミング学習教材です。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="主な特徴">主な特徴<a href="https://itoksk.github.io/GitHub-demo/blog/tetris-workshop-added#%E4%B8%BB%E3%81%AA%E7%89%B9%E5%BE%B4" class="hash-link" aria-label="主な特徴 への直接リンク" title="主な特徴 への直接リンク">​</a></h3>
+<ul>
+<li><strong>👋 手の動きで操作</strong> - キーボード不要！カメラに向かって手を動かすだけ</li>
+<li><strong>🎯 段階的な学習</strong> - 初心者から上級者まで対応した演習問題</li>
+<li><strong>🔧 カスタマイズ可能</strong> - ジェスチャーや動作を自由に変更できる</li>
+<li><strong>☁️ Codespaces対応</strong> - インストール不要ですぐに始められる</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-学習内容">📚 学習内容<a href="https://itoksk.github.io/GitHub-demo/blog/tetris-workshop-added#-%E5%AD%A6%E7%BF%92%E5%86%85%E5%AE%B9" class="hash-link" aria-label="📚 学習内容 への直接リンク" title="📚 学習内容 への直接リンク">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-基本操作の習得">1. <strong>基本操作の習得</strong><a href="https://itoksk.github.io/GitHub-demo/blog/tetris-workshop-added#1-%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C%E3%81%AE%E7%BF%92%E5%BE%97" class="hash-link" aria-label="1-基本操作の習得 への直接リンク" title="1-基本操作の習得 への直接リンク">​</a></h3>
+<ul>
+<li>手のひらでブロックを左右に移動</li>
+<li>指でブロックを回転</li>
+<li>グーで高速落下</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-プログラミング演習">2. <strong>プログラミング演習</strong><a href="https://itoksk.github.io/GitHub-demo/blog/tetris-workshop-added#2-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E6%BC%94%E7%BF%92" class="hash-link" aria-label="2-プログラミング演習 への直接リンク" title="2-プログラミング演習 への直接リンク">​</a></h3>
+<ul>
+<li>難易度別の改造課題（初級・中級・上級）</li>
+<li>スコア表示やレベルシステムの実装</li>
+<li>新しいブロックの追加</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-ジェスチャーカスタマイズ">3. <strong>ジェスチャーカスタマイズ</strong><a href="https://itoksk.github.io/GitHub-demo/blog/tetris-workshop-added#3-%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%81%E3%83%A3%E3%83%BC%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA" class="hash-link" aria-label="3-ジェスチャーカスタマイズ への直接リンク" title="3-ジェスチャ�ーカスタマイズ への直接リンク">​</a></h3>
+<ul>
+<li>MediaPipeの仕組みを理解</li>
+<li>オリジナルジェスチャーの作成</li>
+<li>認識精度の向上</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-こんな方におすすめ">🌟 こんな方におすすめ<a href="https://itoksk.github.io/GitHub-demo/blog/tetris-workshop-added#-%E3%81%93%E3%82%93%E3%81%AA%E6%96%B9%E3%81%AB%E3%81%8A%E3%81%99%E3%81%99%E3%82%81" class="hash-link" aria-label="🌟 こんな方におすすめ への直接リンク" title="🌟 こんな方におすすめ への直接リンク">​</a></h2>
+<ul>
+<li>プログラミングを楽しく学びたい初心者</li>
+<li>JavaScriptの実践的な使い方を身につけたい方</li>
+<li>画像認識・機械学習に興味がある方</li>
+<li>授業で使える新しい教材を探している先生</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-今すぐ始めよう">🎯 今すぐ始めよう！<a href="https://itoksk.github.io/GitHub-demo/blog/tetris-workshop-added#-%E4%BB%8A%E3%81%99%E3%81%90%E5%A7%8B%E3%82%81%E3%82%88%E3%81%86" class="hash-link" aria-label="🎯 今すぐ始めよう！ への直接リンク" title="🎯 今すぐ始めよう！ への直接リンク">​</a></h2>
+<p>ワークショップは<a href="https://itoksk.github.io/GitHub-demo/docs/tetris-workshop/intro">こちら</a>からアクセスできます。</p>
+<p>GitHub Codespacesを使えば、ブラウザだけですぐに始められます。必要なのはGitHubアカウントとWebカメラだけ！</p>
+<hr>
+<p>皆さんのフィードバックをお待ちしています。楽しみながらプログラミングスキルを向上させましょう！🎮✨</p>]]></content>
+        <author>
+            <name>GitHub Workshop Admin</name>
+            <uri>https://github.com/itoksk</uri>
+        </author>
+        <category label="お知らせ" term="お知らせ"/>
+        <category label="ワークショップ" term="ワークショップ"/>
+        <category label="新機能" term="新機能"/>
+        <category label="プログラミング" term="プログラミング"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub実践ワークショップサイトをリリースしました！]]></title>
         <id>https://itoksk.github.io/GitHub-demo/blog/workshop-launch</id>
@@ -43,7 +180,7 @@
 <li><strong>Day 5</strong>: ブランチとプルリクエスト</li>
 <li><strong>Day 6</strong>: GitHub Classroom体験</li>
 </ol>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="応用編3日間">応用編（3日間）<a href="https://itoksk.github.io/GitHub-demo/blog/workshop-launch#%E5%BF%9C%E7%94%A8%E7%B7%A83%E6%97%A5%EF%BF%BD%EF%BF%BD%E9%96%93" class="hash-link" aria-label="応用編（3日間） への直接リンク" title="応用編（3日間） への直接リンク">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="応用編3日間">応用編（3日間）<a href="https://itoksk.github.io/GitHub-demo/blog/workshop-launch#%E5%BF%9C%E7%94%A8%E7%B7%A83%E6%97%A5%E9%96%93" class="hash-link" aria-label="応用編（3日間） への直接リンク" title="応用編（3日間） への直接リンク">​</a></h3>
 <ol>
 <li><strong>Advanced 1</strong>: Google Apps Script入門</li>
 <li><strong>Advanced 2</strong>: GitHub Classroom（講師視点）</li>
